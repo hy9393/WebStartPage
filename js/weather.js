@@ -1,6 +1,6 @@
 // Check the API doc of openweathermap
 // https://openweathermap.org/current
-const API_KEY = "d61cce78874fb8fb84f652cbf25f238c";
+const API_KEY = "API_KEY";
 const language = "en";
 
 function onGeoOk(position) {
